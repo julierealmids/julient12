@@ -8,7 +8,7 @@ fun main() {
     var age = "22 years old"
     var stmt = "$greeting ,$name $age"
     println(stmt)
-    var myname = "julliets"
+    var myname = "julliet"
     var o = myname
     println(o.length)
     var name1 = "nakayiza"
