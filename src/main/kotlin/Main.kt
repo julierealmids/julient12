@@ -4,7 +4,7 @@ fun main() {
     println(text[3])
     println(text[4])
     var greeting = "hi, my name is "
-    var name = "Julliets i am "
+    var name = "Julliet i am "
     var age = "22 years old"
     var stmt = "$greeting ,$name $age"
     println(stmt)
