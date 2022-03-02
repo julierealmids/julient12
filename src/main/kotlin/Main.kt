@@ -5,10 +5,10 @@ fun main() {
     println(text[4])
     var greeting = "hi, my name is "
     var name = "Julliet i am "
-    var age = "22 year old"
+    var age = "22 years old"
     var stmt = "$greeting ,$name $age"
     println(stmt)
-    var myname = "julliets"
+    var myname = "julliet"
     var o = myname
     println(o.length)
     var name1 = "nakayiza"
